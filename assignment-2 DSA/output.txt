@@ -1,0 +1,30 @@
+DYNAMIC ARRAY
+Resizing from 2 to 4
+Resizing from 4 to 8
+Resizing from 8 to 16
+1 2 3 4 5 6 7 8 9 10 
+Pop: 10
+Pop: 9
+1 2 3 4 5 6 7 8 
+
+SINGLY LINKED LIST
+20 10 30 40 
+20 10 40 
+
+DOUBLY LINKED LIST
+1 2 5 3 
+1 5 3 
+
+STACK
+Peek: 20
+Pop: 20
+
+QUEUE
+Front: 10
+Dequeue: 10
+
+PARENTHESES CHECK
+([]) -> Balanced
+([)] -> Not Balanced
+((( -> Not Balanced
+ -> Balanced
